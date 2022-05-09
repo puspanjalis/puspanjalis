@@ -1,9 +1,14 @@
 # 💫About Me :
 👩🏻‍💻 I’m a 𝗗𝗮𝘁𝗮 𝗣𝗿𝗮𝗰𝘁𝗶𝘁𝗶𝗼𝗻𝗲𝗿, working as 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 and 𝗻𝗼𝘃𝗶𝗰𝗲 𝗔𝗜 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿.
+
 👀 I’m interested in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 , 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲, 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 and 𝗖𝗹𝗼𝘂𝗱 𝗔𝗜
+
 🌱 I’m currently working on 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴, 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 and 𝗔𝘂𝘁𝗼 𝗠𝗟
+
 💞️ I’m looking to collaborate on Research and Development , Real Time Use Case Development in AI/ML and Cloud AI
+
 🥅 𝟮𝟬𝟮𝟮 𝗚𝗼𝗮𝗹𝘀: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis etc.
+
 📫 How to reach me puspanjalisarma23@gmail.com
 
 ## 🌐Socials
