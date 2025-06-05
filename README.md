@@ -9,7 +9,7 @@
 
 💞️ I’m looking to collaborate on Research and Development , Real Time Use Case Development in AI/ML and Cloud AI
 
-🥅 𝟮𝟬𝟮𝟮 𝗚𝗼𝗮𝗹𝘀: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis etc.
+🥅 𝟮𝟬𝟮5 𝗚𝗼𝗮𝗹𝘀: Explore the more and more research of Voice bases AI Agents, Agentic AI, AI Roadmap and Strategy ans AI Innovation in Business Transformation. 
 
 📫 How to reach me puspanjalisarma23@gmail.com
 
